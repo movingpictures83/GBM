@@ -1,0 +1,2 @@
+Prefix plugins/GBM/example/
+Plugin GBM inputfile parameters.train.txt outputfile output.rds
